@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "S0RcaPQUcA/tlwA7NxPAUehBN1FeZfKgyYGRrj9RDxtqRfLCMXb9+k7yQv5wInfymW3gKaXCMg21XsUyR9xZFA==",
+  "dgSpecHash": "8E/3hukptLfy0Xh6XOkLuM8f+M8antmf5loGnUosmGlAIJiy9Z2X4ZjXTimctiB+ujblFYrsqegeDABKFPRVhQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\lramirez\\8496\\L\\GitHub\\TestDevBackJr\\Prueba_2\\Test_2\\Test_2.csproj",
+  "projectFilePath": "C:\\Users\\lramirez\\8496\\L\\GitHub\\TestDevBackJrPub\\Prueba_2\\Test_2\\Test_2.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\lramirez\\.nuget\\packages\\bouncycastle.netcore\\1.8.3\\bouncycastle.netcore.1.8.3.nupkg.sha512",
     "C:\\Users\\lramirez\\.nuget\\packages\\google.protobuf\\3.11.4\\google.protobuf.3.11.4.nupkg.sha512",

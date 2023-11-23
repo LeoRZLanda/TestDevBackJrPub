@@ -6490,11 +6490,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lramirez\\8496\\L\\GitHub\\TestDevBackJr\\Prueba_2\\Test_2\\Test_2.csproj",
+      "projectUniqueName": "C:\\Users\\lramirez\\8496\\L\\GitHub\\TestDevBackJrPub\\Prueba_2\\Test_2\\Test_2.csproj",
       "projectName": "Test_2",
-      "projectPath": "C:\\Users\\lramirez\\8496\\L\\GitHub\\TestDevBackJr\\Prueba_2\\Test_2\\Test_2.csproj",
+      "projectPath": "C:\\Users\\lramirez\\8496\\L\\GitHub\\TestDevBackJrPub\\Prueba_2\\Test_2\\Test_2.csproj",
       "packagesPath": "C:\\Users\\lramirez\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lramirez\\8496\\L\\GitHub\\TestDevBackJr\\Prueba_2\\Test_2\\obj\\",
+      "outputPath": "C:\\Users\\lramirez\\8496\\L\\GitHub\\TestDevBackJrPub\\Prueba_2\\Test_2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\lramirez\\AppData\\Roaming\\NuGet\\NuGet.Config"

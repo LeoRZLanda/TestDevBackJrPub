@@ -1,24 +1,23 @@
 using Test_2.Interfaces;
 using Test_2.Data;
-using System.Linq;
+using Test_2.Models;
 
 namespace Test_2.Servicios{
     public class RepositorioUsuarios : IRepositorioUsuarios{
         
         private readonly string connectionString;
 
-        private AppDbContext appDbContext;
+        private readonly AppDbContext appDbContext;
 
-        public RepositorioUsuarios(IConfiguration configuration){
+        public RepositorioUsuarios(IConfiguration configuration, AppDbContext appDbContext){
             connectionString = configuration.GetConnectionString("DefaultConnection");
+            this.appDbContext = appDbContext;
         }
 
-        public  Top10User(){
+        public List<Usuario> Top10User(){
             //var using connection = new  MySqlConnection(connectionString);
 
-            var DbContext = new AppDbContext(connectionString);
-
-            var topUsuarios = DbContext.Usuarios.Take(10).ToList();
+            List<Usuario> topUsuarios = appDbContext.Usuarios.Take(10).ToList();
 
             return topUsuarios;
         }
