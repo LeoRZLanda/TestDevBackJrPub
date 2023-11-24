@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "t88fCzwLDZluE5vX7ugBpgtMjmKWN7rVOaRtUDFBdIUbTLkYOJGw4OphmSPUDhsOBT1OtmixNcjXzAK8dO2FwA==",
+  "dgSpecHash": "+igFPX0wJn841z48xDWWryVDbGzNqBSPSr//ZwdmLsPLD0y0hI4nV1/dF9cfZFAw/2Amq39SRacVqq//RLIK5Q==",
   "success": true,
   "projectFilePath": "C:\\Users\\lramirez\\8496\\L\\GitHub\\TestDevBackJrPub\\Prueba_2\\Cons_2\\Cons_2.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\lramirez\\.nuget\\packages\\bouncycastle.cryptography\\2.2.1\\bouncycastle.cryptography.2.2.1.nupkg.sha512",
+    "C:\\Users\\lramirez\\.nuget\\packages\\csvhelper\\30.0.1\\csvhelper.30.0.1.nupkg.sha512",
     "C:\\Users\\lramirez\\.nuget\\packages\\google.protobuf\\3.21.9\\google.protobuf.3.21.9.nupkg.sha512",
     "C:\\Users\\lramirez\\.nuget\\packages\\k4os.compression.lz4\\1.3.5\\k4os.compression.lz4.1.3.5.nupkg.sha512",
     "C:\\Users\\lramirez\\.nuget\\packages\\k4os.compression.lz4.streams\\1.3.5\\k4os.compression.lz4.streams.1.3.5.nupkg.sha512",

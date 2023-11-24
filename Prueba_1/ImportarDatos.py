@@ -22,8 +22,8 @@ VALUES (%s, %s, %s, %s)
 """
 for i, row in df['Info usuarios'].iterrows():
     cursor = con.cursor()
-    user_id = int(row['Login'].split('user')[-1])
-    cursor.execute(query, (user_id, row['NOMBRES'], row['PATERNO'], row['MATERNO']))
+    #user_id = int(row['Login'].split('user')[-1])
+    cursor.execute(query, (row['Login'], row['NOMBRES'], row['PATERNO'], row['MATERNO']))
     con.commit()
 
 # Insertar datos en la tabla empleados

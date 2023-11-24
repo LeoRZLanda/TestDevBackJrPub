@@ -42,3 +42,4 @@ C:\Users\lramirez\8496\L\GitHub\TestDevBackJrPub\Prueba_2\Cons_2\obj\Debug\net6.
 C:\Users\lramirez\8496\L\GitHub\TestDevBackJrPub\Prueba_2\Cons_2\obj\Debug\net6.0\Cons_2.pdb
 C:\Users\lramirez\8496\L\GitHub\TestDevBackJrPub\Prueba_2\Cons_2\obj\Debug\net6.0\Cons_2.genruntimeconfig.cache
 C:\Users\lramirez\8496\L\GitHub\TestDevBackJrPub\Prueba_2\Cons_2\obj\Debug\net6.0\ref\Cons_2.dll
+C:\Users\lramirez\8496\L\GitHub\TestDevBackJrPub\Prueba_2\Cons_2\bin\Debug\net6.0\CsvHelper.dll
