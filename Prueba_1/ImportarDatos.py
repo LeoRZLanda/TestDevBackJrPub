@@ -9,9 +9,9 @@ df = pd.read_excel('DatosPracticaSQL.xlsx', sheet_name=None)
 
 # Crear conexión con la base de datos
 con = mysql.connector.connect(
-    host='localhost',
+    host='host',
     user='root',
-    password='MasterediDES2023!',
+    password='password',
     database='TestDevBackJr'
 )
 

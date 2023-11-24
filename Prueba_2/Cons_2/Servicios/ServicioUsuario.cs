@@ -5,7 +5,7 @@ using MySql.Data.MySqlClient;
 namespace Cons_2.Servicios{
     public class ServicioUsuario
     {
-        public List<Usuario> GetTopTenUsers()
+        public static List<Usuario> GetTopTenUsers()
         {
             List<Usuario> topTenUsers = new List<Usuario>();
 
